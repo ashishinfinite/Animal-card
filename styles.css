@@ -1,0 +1,44 @@
+/* add your CSS here */
+
+*{
+border-radius:5px;
+box-sizing:border-box;
+}
+body{
+border: 1px solid mediumslateblue; 
+width:320px;
+margin:auto;
+}
+h3{
+border: 1px solid mediumslateblue; 
+margin:20px 5px 5px 5px;
+}
+img{
+margin:5px;
+width:300px;
+border: 3px solid blueviolet;
+
+}
+
+.items{
+border: 1px solid blueviolet;
+margin:5px;
+padding:3px;
+}
+
+.list{
+margin:5px;
+list-style-type: none;
+
+border: 1px solid blueviolet;
+}
+.discription{
+margin:5px;
+padding:3px;
+border: 1px solid blueviolet; 
+}
+.facts{
+margin:5px;
+padding:3px;
+border: 1px solid blueviolet; 
+}
